@@ -1,5 +1,7 @@
 # 💸 SplitFlow
 
+https://www.loom.com/share/e0eed8e3c0484b7a88b1cfdcd4b2a3c2
+
 **Grup masraflarını hesapla, Stellar blockchain üzerinden öde.**
 
 SplitFlow, arkadaşlarınızla yaptığınız gezilerde, etkinliklerde veya ortak harcamalarda masrafları adil bir şekilde bölmenizi ve Stellar blockchain üzerinden güvenli ödemeler yapmanızı sağlayan modern bir web uygulamasıdır.
